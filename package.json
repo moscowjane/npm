@@ -1,0 +1,23 @@
+{
+  "name": "123",
+  "version": "1.0.0",
+  "description": "LHL",
+  "main": "vagrant",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NPM"
+  },
+  "keywords": [
+    "npm",
+    "json",
+    "js"
+  ],
+  "author": "jdesbarats",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
